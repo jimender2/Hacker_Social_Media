@@ -1,3 +1,9 @@
+# Hacker Social Media
+
+List of Hacker/Infosec/CyberSec and related Social Media profiles that we recommend you follow
+
+Please open a PR to submit a social media account
+
 @briankrebs
 @maddiestone
 @KimZetter
