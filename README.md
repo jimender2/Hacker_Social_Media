@@ -4,209 +4,211 @@ List of Hacker/Infosec/CyberSec and related Social Media profiles that we recomm
 
 Please open a PR to submit a social media account
 
-@briankrebs
-@maddiestone
-@KimZetter
-@RobertMLee
-@cyb3rops
-@campuscodi
-@cglyer
-@billyleonard
-@vxunderground
-@likethecoins
-@RidT
-@ryanaraine
-@craiu
-@AricToler
-@evacide
-@zackwhittaker
-@HostileSpectrum
-@GossiTheDog
-@juanandres_gs
-@securityweekly
-@taosecurity
-@DAlperovitch
-@anton_chuvakin
-@jack_daniel
-@matthew_d_green
-@TroyHunt
-@mikko
-@samykamkar
-@e_kaspersky
-@DanielMiessler
+- @briankrebs
+- @maddiestone
+- @KimZetter
+- @RobertMLee
+- @cyb3rops
+- @campuscodi
+- @cglyer
+- @billyleonard
+- @vxunderground
+- @likethecoins
+- @RidT
+- @ryanaraine
+- @craiu
+- @AricToler
+- @evacide
+- @zackwhittaker
+- @HostileSpectrum
+- @GossiTheDog
+- @juanandres_gs
+- @securityweekly
+- @taosecurity
+- @DAlperovitch
+- @anton_chuvakin
+- @jack_daniel
+- @matthew_d_green
+- @TroyHunt
+- @mikko
+- @samykamkar
+- @e_kaspersky
+- @DanielMiessler
 
 Discord
 
-Blackhills Infosec
-SANS Defensive Operations / Blue Team
-SANS Offensive Operations
+- Blackhills Infosec
+- SANS Defensive Operations / Blue Team
+- SANS Offensive Operations
 
-nerdpyle@infosec.exchange
-racheltobac@infosec.exchange
-sven@universeodon.com
-packet@infosec.exchange
-hegel@infosec.exchange
-ridt@infosec.exchange
-jennamclaughlin@infosec.exchange
-JosephMenn@infosec.exchange
-agam@journa.host
-BleepingComputer@infosec.exchange
-lhn@mastodon.online
-ericgeller@mastodon.social
-zackwhittaker@mastodon.social
-sinebx@infosec.exchange
-shortridge@hachyderm.io
-malanalysis@infosec.exchange
-webbreacher@infosec.exchange
-sergio@infosec.exchange
-thepacketrat@infosec.exchange
-DarkOperator@infosec.exchange
-fbajak@mastodon.world
-riskybusiness@infosec.exchange
-haveibeenpwned@infosec.exchange
-howelloneill@infosec.exchange
-martijn_grooten@mastodon.social
-dangoodin@infosec.exchange
-GossiTheDog@cyberplace.social
-mttaggart@infosec.town
-mishaal@infosec.exchange
-defaultvlan@infosec.exchange
-tomnomnom@infosec.exchange
-ex_raritas@twtr.plus
-zep@mastodon.social
-sneakymonkey@infosec.exchange
-wbm312@infosec.exchange
-dwizzzle@infosec.exchange
-clong@infosec.exchange
-wdormann@infosec.exchange
-lawrenceabrams@infosec.exchange
-wald0@infosec.exchange
-marcusjcarey@infosec.exchange
-mitreattack@infosec.exchange
-stvemillertime@infosec.exchange
-malwarejake@infosec.exchange
-sansforensics@twtr.plus
-Javvad@infosec.exchange
-m_rothe@infosec.exchange
-ryannewington@infosec.exchange
-drahcir_rahl@defcon.social
-svbl@defcon.social
-compuwatcher@infosec.exchange
-tazwake@infosec.exchange
-colemankane@infosec.exchange
-cj@chaos.social
-oneguynick@mastodon.social
-myth@infosec.exchange
-jgaut@infosec.exchange
-rayredacted@infosec.exchange
-Antonlovesdnb@infosec.exchange
-likethecoins@infosec.exchange
-rodtrent@infosec.exchange
-shortstack@infosec.exchange
-frankmcg@infosec.exchange
-Viss@mastodon.social
-jack_daniel@mastodon.social
-hackerfantastic@social.hackerfraternity.org
-kimzetter@infosec.exchange
-chriselgee@infosec.exchange
-kevincollier@mastodon.social
-egypt@mastodon.social
-SheHacksPurple@infosec.exchange
-carlos_perez@infosec.exchange
-jullrich@infosec.exchange
-haroonmeer@infosec.exchange
-Quinnypig@awscommunity.social
-HackingDave@infosec.exchange
-HackingLZ@infosec.exchange
-sans_isc@infosec.exchange
-UK_Daniel_Card@infosec.exchange
-greynoise@infosec.exchange
-dfirnotes@infosec.exchange
-wireshark@ioc.exchange
-RyanDFIR@infosec.exchange
-conrad@infosec.exchange
-Gerald_Auger@infosec.exchange
-strandjs@infosec.exchange
-SecurePeacock@infosec.exchange
-jeffmcjunkin@infosec.exchange
-JohnHammond@infosec.exchange
-lophius@infosec.exchange
-koalafiedhacker@infosec.exchange
-m_haggis@infosec.exchange
-Lee_Holmes@infosec.exchange
-gynvael@infosec.exchange
-CyberWarship@infosec.exchange
-zeek@infosec.exchange
-n0x08@infosec.exchange
-lorenzofb@infosec.exchange
-chicagocyber@infosec.exchange
-spacerog@mastodon.social
-AlSweigart@mastodon.social
-andygreenphd@infosec.exchange
-TheDFIRReport@infosec.exchange
-rootsecdev@infosec.exchange
-phil@infosec.exchange
-DidierStevens@infosec.exchange
-ustayready@infosec.exchange
-mcgrew@defcon.social
-thomaspatzke@infosec.exchange
-tomchop@infosec.exchange
-hexacorn@infosec.exchange
-danielgallagher@infosec.exchange
-eric_capuano@infosec.exchange
-cyb3rmonk@infosec.exchange
-DFIRDiva@infosec.exchange
-cybergoatpsyops@infosec.exchange
-PhilHagen@infosec.exchange
-olafhartong@infosec.exchange
-mubix@infosec.exchange
-InfoSecSherpa@infosec.exchange
-agreenberg@infosec.exchange
-thegrugq@infosec.exchange
-Weld@infosec.exchange
-hdm@infosec.exchange
-hrbrmstr@mastodon.social
-patrickcmiller@infosec.exchange
-briankrebs@infosec.exchange
-Cyb3rWard0g@infosec.exchange
-gcluley@mastodon.green
-hasherezade@infosec.exchange
-Mudge@mastodon.social
-jfslowik@infosec.exchange
-vxunderground@infosec.exchange
-troyhunt@infosec.exchange
-securityonion@infosec.exchange
-Johnhultquist@infosec.exchange
-sbousseaden@infosec.exchange
-kennwhite@mastodon.social
-jackrhysider@infosec.exchange
-secshoggoth@infosec.exchange
-thedarktangent@defcon.social
-anton_chuvakin@infosec.exchange
-netresec@infosec.exchange
-taosecurity@infosec.exchange
-pmelson@infosec.exchange
-RGB_Lights@infosec.exchange
-TOoSmOotH@infosec.exchange
-lennyzeltser@infosec.exchange
-weslambert@infosec.exchange
-DavidJBianco@infosec.exchange
-ErrataRob@infosec.exchange
-hal_pomeranz@infosec.exchange
-malware_traffic@infosec.exchange
-chrissanders88@infosec.exchange
-dougburks@infosec.exchange
-husen@fosstodon.org
-defensivedepth@mastodon.social
-campuscodi@mastodon.social
-jerry@infosec.exchange
-bsdbandit@infosec.exchange
-ish@infosec.exchange
-ckure@infosec.exchange
-dayvee87@infosec.exchange
-blueteamgoon@infosec.exchange
-mattblaze@federate.social
-accidentalciso@infosec.exchange
-SwiftOnSecurity@infosec.exchange
-hacks4pancakes@infosec.exchange
-malwaretech@infosec.exchange
+Mastodon
+
+- nerdpyle@infosec.exchange
+- racheltobac@infosec.exchange
+- sven@universeodon.com
+- packet@infosec.exchange
+- hegel@infosec.exchange
+- ridt@infosec.exchange
+- jennamclaughlin@infosec.exchange
+- JosephMenn@infosec.exchange
+- agam@journa.host
+- BleepingComputer@infosec.exchange
+- lhn@mastodon.online
+- ericgeller@mastodon.social
+- zackwhittaker@mastodon.social
+- sinebx@infosec.exchange
+- shortridge@hachyderm.io
+- malanalysis@infosec.exchange
+- webbreacher@infosec.exchange
+- sergio@infosec.exchange
+- thepacketrat@infosec.exchange
+- DarkOperator@infosec.exchange
+- fbajak@mastodon.world
+- riskybusiness@infosec.exchange
+- haveibeenpwned@infosec.exchange
+- howelloneill@infosec.exchange
+- martijn_grooten@mastodon.social
+- dangoodin@infosec.exchange
+- GossiTheDog@cyberplace.social
+- mttaggart@infosec.town
+- mishaal@infosec.exchange
+- defaultvlan@infosec.exchange
+- tomnomnom@infosec.exchange
+- ex_raritas@twtr.plus
+- zep@mastodon.social
+- sneakymonkey@infosec.exchange
+- wbm312@infosec.exchange
+- dwizzzle@infosec.exchange
+- clong@infosec.exchange
+- wdormann@infosec.exchange
+- lawrenceabrams@infosec.exchange
+- wald0@infosec.exchange
+- marcusjcarey@infosec.exchange
+- mitreattack@infosec.exchange
+- stvemillertime@infosec.exchange
+- malwarejake@infosec.exchange
+- sansforensics@twtr.plus
+- Javvad@infosec.exchange
+- m_rothe@infosec.exchange
+- ryannewington@infosec.exchange
+- drahcir_rahl@defcon.social
+- svbl@defcon.social
+- compuwatcher@infosec.exchange
+- tazwake@infosec.exchange
+- colemankane@infosec.exchange
+- cj@chaos.social
+- oneguynick@mastodon.social
+- myth@infosec.exchange
+- jgaut@infosec.exchange
+- rayredacted@infosec.exchange
+- Antonlovesdnb@infosec.exchange
+- likethecoins@infosec.exchange
+- rodtrent@infosec.exchange
+- shortstack@infosec.exchange
+- frankmcg@infosec.exchange
+- Viss@mastodon.social
+- jack_daniel@mastodon.social
+- hackerfantastic@social.hackerfraternity.org
+- kimzetter@infosec.exchange
+- chriselgee@infosec.exchange
+- kevincollier@mastodon.social
+- egypt@mastodon.social
+- SheHacksPurple@infosec.exchange
+- carlos_perez@infosec.exchange
+- jullrich@infosec.exchange
+- haroonmeer@infosec.exchange
+- Quinnypig@awscommunity.social
+- HackingDave@infosec.exchange
+- HackingLZ@infosec.exchange
+- sans_isc@infosec.exchange
+- UK_Daniel_Card@infosec.exchange
+- greynoise@infosec.exchange
+- dfirnotes@infosec.exchange
+- wireshark@ioc.exchange
+- RyanDFIR@infosec.exchange
+- conrad@infosec.exchange
+- Gerald_Auger@infosec.exchange
+- strandjs@infosec.exchange
+- SecurePeacock@infosec.exchange
+- jeffmcjunkin@infosec.exchange
+- JohnHammond@infosec.exchange
+- lophius@infosec.exchange
+- koalafiedhacker@infosec.exchange
+- m_haggis@infosec.exchange
+- Lee_Holmes@infosec.exchange
+- gynvael@infosec.exchange
+- CyberWarship@infosec.exchange
+- zeek@infosec.exchange
+- n0x08@infosec.exchange
+- lorenzofb@infosec.exchange
+- chicagocyber@infosec.exchange
+- spacerog@mastodon.social
+- AlSweigart@mastodon.social
+- andygreenphd@infosec.exchange
+- TheDFIRReport@infosec.exchange
+- rootsecdev@infosec.exchange
+- phil@infosec.exchange
+- DidierStevens@infosec.exchange
+- ustayready@infosec.exchange
+- mcgrew@defcon.social
+- thomaspatzke@infosec.exchange
+- tomchop@infosec.exchange
+- hexacorn@infosec.exchange
+- danielgallagher@infosec.exchange
+- eric_capuano@infosec.exchange
+- cyb3rmonk@infosec.exchange
+- DFIRDiva@infosec.exchange
+- cybergoatpsyops@infosec.exchange
+- PhilHagen@infosec.exchange
+- olafhartong@infosec.exchange
+- mubix@infosec.exchange
+- InfoSecSherpa@infosec.exchange
+- agreenberg@infosec.exchange
+- thegrugq@infosec.exchange
+- Weld@infosec.exchange
+- hdm@infosec.exchange
+- hrbrmstr@mastodon.social
+- patrickcmiller@infosec.exchange
+- briankrebs@infosec.exchange
+- Cyb3rWard0g@infosec.exchange
+- gcluley@mastodon.green
+- hasherezade@infosec.exchange
+- Mudge@mastodon.social
+- jfslowik@infosec.exchange
+- vxunderground@infosec.exchange
+- troyhunt@infosec.exchange
+- securityonion@infosec.exchange
+- Johnhultquist@infosec.exchange
+- sbousseaden@infosec.exchange
+- kennwhite@mastodon.social
+- jackrhysider@infosec.exchange
+- secshoggoth@infosec.exchange
+- thedarktangent@defcon.social
+- anton_chuvakin@infosec.exchange
+- netresec@infosec.exchange
+- taosecurity@infosec.exchange
+- pmelson@infosec.exchange
+- RGB_Lights@infosec.exchange
+- TOoSmOotH@infosec.exchange
+- lennyzeltser@infosec.exchange
+- weslambert@infosec.exchange
+- DavidJBianco@infosec.exchange
+- ErrataRob@infosec.exchange
+- hal_pomeranz@infosec.exchange
+- malware_traffic@infosec.exchange
+- chrissanders88@infosec.exchange
+- dougburks@infosec.exchange
+- husen@fosstodon.org
+- defensivedepth@mastodon.social
+- campuscodi@mastodon.social
+- jerry@infosec.exchange
+- bsdbandit@infosec.exchange
+- ish@infosec.exchange
+- ckure@infosec.exchange
+- dayvee87@infosec.exchange
+- blueteamgoon@infosec.exchange
+- mattblaze@federate.social
+- accidentalciso@infosec.exchange
+- SwiftOnSecurity@infosec.exchange
+- hacks4pancakes@infosec.exchange
+- malwaretech@infosec.exchange
