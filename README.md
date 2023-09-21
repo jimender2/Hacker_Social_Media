@@ -40,6 +40,7 @@ Please open a PR to submit a social media account
 
 ## Discord
 
+- [Hacker Hiring Discord List](https://github.com/INIT6Source/Hacker_Hiring_Discords) - Curated List of Servers with Career, Hiring, Interview Channels
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [19th State Hackers](https://discord.gg/VUTauKkrep) - Self-development, community building, and of course - hacking!
 - [Electronic Piracy](https://discord.gg/AtjTMa3Ujk) - Whiskey Pirates
