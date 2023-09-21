@@ -4,6 +4,8 @@ List of Hacker/Infosec/CyberSec and related Social Media profiles that we recomm
 
 Please open a PR to submit a social media account
 
+## Twitter
+
 - @briankrebs
 - @maddiestone
 - @KimZetter
@@ -36,7 +38,7 @@ Please open a PR to submit a social media account
 - @e_kaspersky
 - @DanielMiessler
 
-Discord
+## Discord
 
 - [0x0539.net](https://discord.gg/n8k3cPZxe9) - Exploit Research
 - [19th State Hackers](https://discord.gg/VUTauKkrep) - Self-development, community building, and of course - hacking!
@@ -188,7 +190,7 @@ Discord
 - [xConnect](https://discord.gg/4TrwJQ8vq9) - Car Hacking Community
 - [ZeroDaysCTF](https://discord.gg/Uuhjn6Yyzb) - Organise and promote capture-the-flag (CTF) events.
 
-Mastodon
+## Mastodon
 
 - nerdpyle@infosec.exchange
 - racheltobac@infosec.exchange
@@ -196,7 +198,7 @@ Mastodon
 - packet@infosec.exchange
 - hegel@infosec.exchange
 - ridt@infosec.exchange
-- @init_6_@infosec.exchange
+- init_6_@infosec.exchange
 - jennamclaughlin@infosec.exchange
 - JosephMenn@infosec.exchange
 - agam@journa.host
@@ -361,9 +363,9 @@ Mastodon
 - hacks4pancakes@infosec.exchange
 - malwaretech@infosec.exchange
 
-YouTube:
+## YouTube:
 
-Cyber Security: 
+### Cyber Security: 
 - John Hammond- https://www.youtube.com/@_JohnHammond
 - Black Hills Information Security- https://www.youtube.com/@BlackHillsInformationSecurity
 - Shenetworks- https://www.youtube.com/@shenetworks
@@ -380,34 +382,34 @@ Cyber Security:
 - seclilc - https://www.youtube.com/@seclilc
 - Allow Some Deny All - https://www.youtube.com/channel/UCh4r8il3KLMv-NxLoOdQ9Ow
 
-Networking:
+### Networking:
 - David Bombal- https://www.youtube.com/@davidbombal
 - Art of Network Engineering- https://www.youtube.com/@artofneteng
 - Network Chuck- https://www.youtube.com/@NetworkChuck
 
-Software Development:
+### Software Development:
 - bawad - https://www.youtube.com/@bawad
 - Coding Garden - https://www.youtube.com/c/CodingGarden
 - The Primeagen - https://www.youtube.com/@ThePrimeagen
 
-Twitch:
+## Twitch:
 
-Software Development:
+### Software Development:
 - Coding Garden - https://www.twitch.tv/codinggarden
 - The Primeagen - https://www.twitch.tv/theprimeagen
 
-Cyber Security:
+### Cyber Security:
 - Alh4zr3d - https://twitch.tv/Alh4zr3d
 - seclilc - https://twitch.tv/seclilc
 - Tib3rius - https://twitch.tv/Tib3rius
 
-Scambating:
+### Scambating:
 - Kitboga - https://www.twitch.tv/kitboga
 
-Blog:
+## Blog:
 - Allow Some Deny All - https://www.allowsomedenyall.com/
 
-Github:
+## Github:
 - INIT6Source - https://github.com/INIT6Source
 
-TikTok:
+## TikTok:
